@@ -1,0 +1,3 @@
+﻿# Homicord
+
+Custom Discord Client.
